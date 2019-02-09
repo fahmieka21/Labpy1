@@ -74,4 +74,4 @@ pengulangan()
 ```
 3).Berikut Screenshotnya:
 
-![img](https://github.com/zaenalmusthofa86/Labpy1/blob/master/Program1.png)
+![img](https://github.com/fahmieka21/Labpy1/blob/master/Programpy.png)
